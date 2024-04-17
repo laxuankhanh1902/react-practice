@@ -1,1 +1,1 @@
-# React Pracetice
+# React Practice
